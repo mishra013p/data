@@ -1,1 +1,2 @@
-Analysis of Diwali Sale and extracting the information about the customers interest area
+# Exploratory Data Analysis Project on Diwali sale 
+Analysis of Diwali Sales and extracting information about the customer's interest area
